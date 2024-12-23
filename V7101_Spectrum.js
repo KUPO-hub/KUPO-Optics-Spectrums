@@ -1,3 +1,8 @@
+(function() {
+    "use strict";
+
+    console.log("V7101_Spectrum.js script loaded successfully.");
+
 // Data for the spectrum
 var wavelength = [
     380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395,
